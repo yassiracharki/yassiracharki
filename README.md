@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning everything ML related
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me yassiracharki@gmail.com
+- Check-out my Kaggle Account : https://www.kaggle.com/yacharki
