@@ -7,3 +7,4 @@
 - Kaggle : https://www.kaggle.com/yacharki
 - Linkedin : https://www.linkedin.com/in/yassir-acharki/
 - HuggingFace : https://huggingface.co/yassiracharki
+- Buy Me a Coffee : https://buymeacoffee.com/yassirachag
