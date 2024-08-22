@@ -4,6 +4,14 @@
 
 <img src ="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: inline-block;">    <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="display: inline-block;">    <img src ="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" style="display: inline-block;">    <img src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="display: inline-block;">    
 
+[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F86924b5649b3444fe04ee3f9feb93769%2FScreenshot%202024-08-08%20144540%20-%20Copy.png?generation=1724323640854836&alt=media)](https://www.kaggle.com/yacharki)
+
+[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F76784e927ab0b337954a1f3f75f25b80%2FScreenshot%202024-08-08%20144540.png?generation=1723126195783834&alt=media)](https://huggingface.co/yassiracharki)
+
+[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F4ff8242cedd57db3ce7c22f4bbc031b1%2FScreenshot%202024-08-08%20145230.png?generation=1723126177976567&alt=media)](https://www.linkedin.com/in/yassir-acharki/)
+
+[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F680f4374c77853e47fb1441e4cc752b8%2FCapture%20dcran%202023-09-22%20152200.png?generation=1695397428296788&alt=media)](https://github.com/yassiracharki)  
+
 - Kaggle : https://www.kaggle.com/yacharki
 - Linkedin : https://www.linkedin.com/in/yassir-acharki/
 - HuggingFace : https://huggingface.co/yassiracharki
