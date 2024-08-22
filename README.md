@@ -10,8 +10,11 @@
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F4ff8242cedd57db3ce7c22f4bbc031b1%2FScreenshot%202024-08-08%20145230.png?generation=1723126177976567&alt=media)](https://www.linkedin.com/in/yassir-acharki/)  
 
+[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F3e42ee035fa52879859ff9eff3dc1042%2FScreenshot%202024-08-23%20144540.png?generation=1724324543510923&alt=media)](https://stackoverflow.com/users/9129190/yassir-acharki)
+
 - Kaggle : https://www.kaggle.com/yacharki
 - Linkedin : https://www.linkedin.com/in/yassir-acharki/
 - HuggingFace : https://huggingface.co/yassiracharki
+- StackOverflow : https://stackoverflow.com/users/9129190/yassir-acharki
 
 <a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
