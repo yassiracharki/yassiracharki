@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" width="400"/> 
+  <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" width="200"/> 
 </p>
 
 <p align="center"> <a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
