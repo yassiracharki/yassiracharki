@@ -17,16 +17,18 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/yassiracharki" target="_blank">
+  <a href="https://www.linkedin.com/in/yassir-acharki" target="_blank">
     <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F4ff8242cedd57db3ce7c22f4bbc031b1%2FScreenshot%202024-08-08%20145230.png?generation=1723126177976567&alt=media"
     width="1000" />
   </a>
 </p>
-      
-[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F4ff8242cedd57db3ce7c22f4bbc031b1%2FScreenshot%202024-08-08%20145230.png?generation=1723126177976567&alt=media)](https://www.linkedin.com/in/yassir-acharki/) 
 
-[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F3e42ee035fa52879859ff9eff3dc1042%2FScreenshot%202024-08-23%20144540.png?generation=1724324543510923&alt=media)](https://stackoverflow.com/users/9129190/yassir-acharki)
-
+<p align="center">
+  <a href="[https://stackoverflow.com/users/9129190/yassir-acharki" target="_blank">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F3e42ee035fa52879859ff9eff3dc1042%2FScreenshot%202024-08-23%20144540.png?generation=1724324543510923&alt=media"
+    width="1000" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yassiracharki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="600" />
