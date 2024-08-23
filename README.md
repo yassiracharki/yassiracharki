@@ -27,10 +27,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassiracharki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
 </p>
 
+<p align="center">
 - Kaggle : https://www.kaggle.com/yacharki
 - Linkedin : https://www.linkedin.com/in/yassir-acharki/
 - HuggingFace : https://huggingface.co/yassiracharki
 - StackOverflow : https://stackoverflow.com/users/9129190/yassir-acharki
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" width="100"/> 
