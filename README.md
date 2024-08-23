@@ -4,7 +4,7 @@
 
 <img src ="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: inline-block;">    <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="display: inline-block;">    <img src ="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" style="display: inline-block;">    <img src ="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="display: inline-block;">    <img src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="display: inline-block;">    
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yassiracharki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="600" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassiracharki&theme=dark&hide_border=false" width="600" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassiracharki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600" />
@@ -23,6 +23,6 @@
 - HuggingFace : https://huggingface.co/yassiracharki
 - StackOverflow : https://stackoverflow.com/users/9129190/yassir-acharki
 
-<a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center"> <a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" /> </p>
