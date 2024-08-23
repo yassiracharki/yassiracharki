@@ -25,7 +25,7 @@
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassiracharki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassiracharki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
 </p>
 
 <p align="center">
