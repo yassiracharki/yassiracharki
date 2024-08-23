@@ -8,6 +8,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yassiracharki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="600" />
 </p>
 
+
+## 📊 GitHub Status:
+![](https://github-readme-streak-stats.herokuapp.com/?user=yassiracharki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yassiracharki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F86924b5649b3444fe04ee3f9feb93769%2FScreenshot%202024-08-08%20144540%20-%20Copy.png?generation=1724323640854836&alt=media)](https://www.kaggle.com/yacharki)
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F76784e927ab0b337954a1f3f75f25b80%2FScreenshot%202024-08-08%20144540.png?generation=1723126195783834&alt=media)](https://huggingface.co/yassiracharki)
@@ -23,4 +31,4 @@
 
 <a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" /> </p>
