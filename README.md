@@ -10,7 +10,11 @@
 
 </p>
 
-[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F86924b5649b3444fe04ee3f9feb93769%2FScreenshot%202024-08-08%20144540%20-%20Copy.png?generation=1724323640854836&alt=media)](https://www.kaggle.com/yacharki)
+<p align="center">
+  <a href="https://www.kaggle.com/yacharki" target="_blank">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F86924b5649b3444fe04ee3f9feb93769%2FScreenshot%202024-08-08%20144540%20-%20Copy.png?generation=1724323640854836&alt=media" width="1000" />
+  </a>
+</p>
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F76784e927ab0b337954a1f3f75f25b80%2FScreenshot%202024-08-08%20144540.png?generation=1723126195783834&alt=media)](https://huggingface.co/yassiracharki)
 
@@ -18,10 +22,7 @@
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F3e42ee035fa52879859ff9eff3dc1042%2FScreenshot%202024-08-23%20144540.png?generation=1724324543510923&alt=media)](https://stackoverflow.com/users/9129190/yassir-acharki)
 
-<p align="center">
-  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F86924b5649b3444fe04ee3f9feb93769%2FScreenshot%202024-08-08%20144540%20-%20Copy.png?generation=1724323640854836&alt=media" width="1000" />
 
-</p>
 
 
 - Kaggle : https://www.kaggle.com/yacharki
