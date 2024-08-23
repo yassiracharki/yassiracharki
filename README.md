@@ -23,9 +23,14 @@
 - HuggingFace : https://huggingface.co/yassiracharki
 - StackOverflow : https://stackoverflow.com/users/9129190/yassir-acharki
 
-<p align="center"> <a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassiracharki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600" />
-  <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" width="100"/> 
+</p>
+
+<p align="center"> <a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+
