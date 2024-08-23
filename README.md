@@ -10,13 +10,13 @@
   
 </p>
 
-[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F86924b5649b3444fe04ee3f9feb93769%2FScreenshot%202024-08-08%20144540%20-%20Copy.png?generation=1724323640854836&alt=media)](https://www.kaggle.com/yacharki)
+<p align="center">[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F86924b5649b3444fe04ee3f9feb93769%2FScreenshot%202024-08-08%20144540%20-%20Copy.png?generation=1724323640854836&alt=media)](https://www.kaggle.com/yacharki)</p>
 
-[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F76784e927ab0b337954a1f3f75f25b80%2FScreenshot%202024-08-08%20144540.png?generation=1723126195783834&alt=media)](https://huggingface.co/yassiracharki)
+<p align="center">[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F76784e927ab0b337954a1f3f75f25b80%2FScreenshot%202024-08-08%20144540.png?generation=1723126195783834&alt=media)](https://huggingface.co/yassiracharki)</p>
 
-[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F4ff8242cedd57db3ce7c22f4bbc031b1%2FScreenshot%202024-08-08%20145230.png?generation=1723126177976567&alt=media)](https://www.linkedin.com/in/yassir-acharki/)  
+<p align="center">[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F4ff8242cedd57db3ce7c22f4bbc031b1%2FScreenshot%202024-08-08%20145230.png?generation=1723126177976567&alt=media)](https://www.linkedin.com/in/yassir-acharki/) </p>
 
-[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F3e42ee035fa52879859ff9eff3dc1042%2FScreenshot%202024-08-23%20144540.png?generation=1724324543510923&alt=media)](https://stackoverflow.com/users/9129190/yassir-acharki)
+<p align="center">[![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F3e42ee035fa52879859ff9eff3dc1042%2FScreenshot%202024-08-23%20144540.png?generation=1724324543510923&alt=media)](https://stackoverflow.com/users/9129190/yassir-acharki)</p>
 
 - Kaggle : https://www.kaggle.com/yacharki
 - Linkedin : https://www.linkedin.com/in/yassir-acharki/
