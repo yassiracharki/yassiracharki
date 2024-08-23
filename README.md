@@ -24,13 +24,6 @@
 </p>
 
 <p align="center">
-  <a href="[https://stackoverflow.com/users/9129190/yassir-acharki" target="_blank">
-    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10030651%2F3e42ee035fa52879859ff9eff3dc1042%2FScreenshot%202024-08-23%20144540.png?generation=1724324543510923&alt=media"
-    width="1000" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yassiracharki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="500" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassiracharki&theme=dark&hide_border=false" width="500" />
 
