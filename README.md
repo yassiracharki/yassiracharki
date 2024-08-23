@@ -31,8 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassiracharki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="600" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassiracharki&theme=dark&hide_border=false" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassiracharki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassiracharki&theme=dark&hide_border=false" width="500" />
 
 </p>
 
