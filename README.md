@@ -43,19 +43,18 @@
 <p align="center">
   - Kaggle : https://www.kaggle.com/yacharki
 </p>
+
 <p align="center">
   - Linkedin : https://www.linkedin.com/in/yassir-acharki/
 </p>
+
 <p align="center">
   - HuggingFace : https://huggingface.co/yassiracharki
 </p>
+
 <p align="center">
   - StackOverflow : https://stackoverflow.com/users/9129190/yassir-acharki
 </p>
-
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yassiracharki&label=Profile%20views&color=0e75b6&style=flat" width="200"/> 
